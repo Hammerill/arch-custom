@@ -5,7 +5,7 @@ My customization scripts for installing Arch Linux.
 Refer to [CUSTOMIZATIONS.md](./CUSTOMIZATIONS.md).
 
 ## For VM
-```sh
+```bash
 chmod +x ./VM.sh
 sudo ./VM.sh
 ```
