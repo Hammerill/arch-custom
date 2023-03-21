@@ -9,3 +9,6 @@ Refer to [CUSTOMIZATIONS.md](./CUSTOMIZATIONS.md).
 chmod +x ./VM.sh
 sudo ./VM.sh
 ```
+
+## Git
+Refer to [GIT.md](./GIT.md).
