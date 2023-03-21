@@ -6,9 +6,12 @@ Refer to [CUSTOMIZATIONS.md](./CUSTOMIZATIONS.md).
 
 ## For VM
 ```bash
-chmod +x ./VM.sh
+chmod +x VM.sh
 sudo ./VM.sh
 ```
 
 ## Git
-Refer to [GIT.md](./GIT.md).
+```bash
+chmod +x GIT.sh
+./GIT.sh
+```
